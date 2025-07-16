@@ -1,4 +1,4 @@
-public class OverridingExample {
+public class Overriding{
     public static void main(String[] args) {
         Animal a = new Dog();  
         a.sound();  
