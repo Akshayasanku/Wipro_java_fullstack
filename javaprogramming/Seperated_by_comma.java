@@ -1,4 +1,4 @@
-public class Example {
+public class Seperated_by_comma{
     public static void main(String[] args) {
         if (args.length == 0) {
             System.out.println("No values");
