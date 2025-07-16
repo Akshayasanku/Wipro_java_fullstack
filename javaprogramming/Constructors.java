@@ -1,5 +1,5 @@
 import java .util .Scanner;
-public class Box{
+public class Constructors{
     private double width;
     private double height;
     private double depth;
